@@ -11,7 +11,7 @@ Install with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/gtech-official08/weather-app.git
+  git clone https://github.com/gtech-official08/quiz-app.git
 ```
 
 Remove `.git` an `README.md` if you want to push this repo on your github.com.
